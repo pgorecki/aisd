@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+# W przypadku błędu:
+# SyntaxError: Non-ASCII character ... in file ... zmień kodowanie w pierwszej linii
+
+
 # Copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
 # http://www.apache.org/licenses/LICENSE-2.0
