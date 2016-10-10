@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- encoding: utf8 -*-
 
 # W przypadku błędu:
 # SyntaxError: Non-ASCII character ... in file ... zmień kodowanie w pierwszej linii
