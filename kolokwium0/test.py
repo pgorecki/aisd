@@ -6,10 +6,12 @@ from zadania import *
 
 #
 # UWAGA!!!!
-# Nie modyfikuj tego pliku. Modyfikacja pliku skutkowaæêie otrzymaniem 0 punktó kolokwium
+# Nie modyfikuj tego pliku. Modyfikacja pliku skutkować będzie otrzymaniem 0 punktów z kolokwium
 #
 
-# jest 5 testówiêmo¿na uzyskaæax. 5 punktóclass Kolokwium0(unittest.TestCase):
+# jest 5 testów, więc można uzyskać max. 5 punktów 
+
+class Kolokwium0(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         print(hashlib.md5(open('test.py', 'rb').read()).hexdigest())
